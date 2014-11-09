@@ -1,0 +1,8 @@
+{
+    "applicationName" : "testApp",
+    "applicationId": "",
+    "applicationKey": "",
+    "global": {
+        "avVersion": "0.3.1"
+    }
+}

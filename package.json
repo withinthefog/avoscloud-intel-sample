@@ -1,0 +1,7 @@
+{
+  "name": "avoscloud_test_app",
+  "version": "0.0.1",
+  "dependencies": {
+    "intel": "^1.0.0-b6"
+  }
+}
